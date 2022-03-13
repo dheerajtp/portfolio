@@ -31,10 +31,7 @@ function About() {
                 <div className="text-xs">April - ongoing</div>
               </div>
               <div className="mb-10">
-                I joined XL Technologies as a Junior web developer in April 27
-                2021 and created two web applications in MERN Stack which was
-                Federal Exchange (Money Exchange) and Veta CPA (Tax Management).
-                Created REST API's for mobile and web applications.
+                My role at XL Technologies began on April 27th 2021 as a Junior Web Developer. I created two web applications, Federal Exchange (Money Exchange) and Veta CPA (Tax Management), using the MERN stack. I also developed REST API's for mobile and web applications.
               </div>
             </div>
           </div>
