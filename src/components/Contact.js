@@ -93,6 +93,7 @@ function Contact() {
               className="w-full p-4 pr-12 text-sm border-gray-200 rounded-lg shadow-sm"
               placeholder="Enter Full Name"
               onChange={handleChange}
+              required
             />
           </div>
         </div>
@@ -110,6 +111,7 @@ function Contact() {
               className="w-full p-4 pr-12 text-sm border-gray-200 rounded-lg shadow-sm"
               placeholder="Enter Email"
               onChange={handleChange}
+              required
             />
           </div>
         </div>
@@ -127,6 +129,7 @@ function Contact() {
               className="resize w-full p-4 pr-12 text-sm border-gray-200 rounded-lg shadow-sm"
               placeholder="Enter Your Message"
               onChange={handleChange}
+              required
             />
           </div>
         </div>
