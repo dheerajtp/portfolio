@@ -4,6 +4,7 @@ import Main from "./components/Main";
 import Pets from "./components/Pets";
 import { ToastProvider } from "react-toast-notifications";
 import Footer from "./components/Footer";
+import Technology from "./components/Technology";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Main />
         <About />
         <Pets />
+        <Technology/>
         <Contact />
         <Footer />
       </div>
