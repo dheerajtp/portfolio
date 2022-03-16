@@ -129,7 +129,6 @@ function About() {
 
             <div className="ml-10">
               <div className="font-bold">SSLC</div>
-              <div className="italic md:mb-4">Science</div>
               <div className="mb-4 mt-2 md:hidden">
                 <div className="font-bold">2012</div>
                 <div className="text-xs">2012</div>
