@@ -71,14 +71,20 @@
         "link":"https://firebase.google.com/",
         "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
     },
+ {
+'id':13,
+'name':'Redux - Toolkit',
+"link":"https://redux-toolkit.js.org",
+"src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
+}
     {
-        "id":13,
+        "id":14,
         "name":"Laravel",
         "link":"https://laravel.com/",
         "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
     },
     {
-        "id":14,
+        "id":15,
         "name":"Photoshop",
         "link":"https://www.adobe.com/uk/products/photoshop.html",
         "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
