@@ -76,8 +76,7 @@
 'name':'Redux - Toolkit',
 "link":"https://redux-toolkit.js.org",
 "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
-}
-    {
+},{
         "id":14,
         "name":"Laravel",
         "link":"https://laravel.com/",
