@@ -1,91 +1,92 @@
 [
-    {
-        "id":1,
-        "name":"JavaScript",
-        "link":"https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    },
-    {
-        "id":2,
-        "name":"PHP",
-        "link":"https://www.php.net/",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
-    },
-    {
-        "id":3,
-        "name":"HTML",
-        "link":"https://developer.mozilla.org/en-US/docs/Glossary/HTML5",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-    },
-    {
-        "id":4,
-        "name":"React JS",
-        "link":"https://reactjs.org/",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    },
-    {
-        "id":5,
-        "name":"CSS3",
-        "link":"https://www.w3.org/TR/CSS/#css",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-    },
-    {
-        "id":6,
-        "name":"TailwindCSS",
-        "link":"https://tailwindcss.com/",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-    },
-    {
-        "id":7,
-        "name":"Bootstrap",
-        "link":"https://getbootstrap.com/",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-    },
-    {
-        "id":8,
-        "name":"NodeJS",
-        "link":"https://nodejs.org/en/",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-    },
-    {
-        "id":9,
-        "name":"ExpressJS",
-        "link":"https://expressjs.com/",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-    },
-    {
-        "id":10,
-        "name":"MongoDB",
-        "link":"https://www.mongodb.com/",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-    },
-    {
-        "id":11,
-        "name":"MySQL",
-        "link":"https://www.mysql.com/",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    },
-    {
-        "id":12,
-        "name":"Firebase",
-        "link":"https://firebase.google.com/",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-    },
- {
-'id':13,
-'name':'Redux - Toolkit',
-"link":"https://redux-toolkit.js.org",
-"src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
-},{
-        "id":14,
-        "name":"Laravel",
-        "link":"https://laravel.com/",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
-    },
-    {
-        "id":15,
-        "name":"Photoshop",
-        "link":"https://www.adobe.com/uk/products/photoshop.html",
-        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-    }
+  {
+    "id": 1,
+    "name": "JavaScript",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  },
+  {
+    "id": 2,
+    "name": "PHP",
+    "link": "https://www.php.net/",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+  },
+  {
+    "id": 3,
+    "name": "HTML",
+    "link": "https://developer.mozilla.org/en-US/docs/Glossary/HTML5",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+  },
+  {
+    "id": 4,
+    "name": "React JS",
+    "link": "https://reactjs.org/",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  },
+  {
+    "id": 5,
+    "name": "CSS3",
+    "link": "https://www.w3.org/TR/CSS/#css",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+  },
+  {
+    "id": 6,
+    "name": "TailwindCSS",
+    "link": "https://tailwindcss.com/",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+  },
+  {
+    "id": 7,
+    "name": "Bootstrap",
+    "link": "https://getbootstrap.com/",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+  },
+  {
+    "id": 8,
+    "name": "NodeJS",
+    "link": "https://nodejs.org/en/",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+  },
+  {
+    "id": 9,
+    "name": "ExpressJS",
+    "link": "https://expressjs.com/",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+  },
+  {
+    "id": 10,
+    "name": "MongoDB",
+    "link": "https://www.mongodb.com/",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+  },
+  {
+    "id": 11,
+    "name": "MySQL",
+    "link": "https://www.mysql.com/",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  },
+  {
+    "id": 12,
+    "name": "Firebase",
+    "link": "https://firebase.google.com/",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+  },
+  {
+    "id": 13,
+    "name": "Redux - Toolkit",
+    "link": "https://redux-toolkit.js.org",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+  },
+  {
+    "id": 14,
+    "name": "Laravel",
+    "link": "https://laravel.com/",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+  },
+  {
+    "id": 15,
+    "name": "Photoshop",
+    "link": "https://www.adobe.com/uk/products/photoshop.html",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
+  }
 ]
