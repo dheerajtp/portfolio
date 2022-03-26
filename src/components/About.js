@@ -27,7 +27,7 @@ function About() {
                 Junior Web Developer at XL Texhnologies
               </div>
               <div className="mb-4 mt-2 md:hidden">
-                <div className="font-bold">2020</div>
+                <div className="font-bold">2021</div>
                 <div className="text-xs">April - ongoing</div>
               </div>
               <div className="mb-10">
