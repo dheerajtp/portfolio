@@ -6,12 +6,6 @@
     "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
   },
   {
-    "id": 2,
-    "name": "PHP",
-    "link": "https://www.php.net/",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
-  },
-  {
     "id": 3,
     "name": "HTML",
     "link": "https://developer.mozilla.org/en-US/docs/Glossary/HTML5",

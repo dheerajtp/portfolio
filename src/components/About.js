@@ -10,11 +10,44 @@ function About() {
         <div className="relative mt-5 text-left">
           <div className="flex items-center relative">
             <div className="hidden md:block w-20">
-              <div className="font-bold italic">2021</div>
+              <div className="font-bold italic">2024</div>
               <div className="md:flex space-x-0 text-xs">
-                <div>April</div>
+                <div>June 2022</div>
                 <div>-</div>
-                <div>ongoing</div>
+                <div>Ongoing</div>
+              </div>
+            </div>
+
+            <div className="border-r-2 border-black absolute h-full left-1 md:left-20 top-2 z-10">
+              <i className="fas fa-circle -top-1 -ml-2 absolute"></i>
+            </div>
+
+            <div className="ml-10">
+              <div className="font-bold">
+                Tech Lead | MERN Stack Developer at Infinite Open Source
+                Solutions
+              </div>
+              <div className="mb-4 mt-2 md:hidden">
+                <div className="font-bold">2024</div>
+                <div className="text-xs">June -2022 - Ongoing</div>
+              </div>
+              <div className="mb-10">
+                Successfully managing a team of 4 developers consisting of
+                Python, Laravel, React and Node to deliver assigned projects on
+                time.Communicating with Business Analyst and Project Manager to
+                successfully understand the client requirements.Delegating
+                different tasks/sprints to team members effectively
+              </div>
+            </div>
+          </div>
+
+          <div className="flex items-center relative">
+            <div className="hidden md:block w-20">
+              <div className="font-bold italic">2022</div>
+              <div className="md:flex space-x-0 text-xs">
+                <div>April 2021</div>
+                <div>-</div>
+                <div>May 2022</div>
               </div>
             </div>
 
@@ -27,11 +60,15 @@ function About() {
                 Junior Web Developer at XL Texhnologies
               </div>
               <div className="mb-4 mt-2 md:hidden">
-                <div className="font-bold">2021</div>
-                <div className="text-xs">April - ongoing</div>
+                <div className="font-bold">2022</div>
+                <div className="text-xs">April -2021 - May 2022</div>
               </div>
               <div className="mb-10">
-                My role at XL Technologies began on April 27th 2021 as a Junior Web Developer. I created two web applications, Federal Exchange (Money Exchange) and Veta CPA (Tax Management), using the MERN stack. I also developed REST API's for mobile and web applications.
+                My role at XL Technologies began on April 27th 2021 as a Junior
+                Web Developer. I created two web applications, Federal Exchange
+                (Money Exchange) and Veta CPA (Tax Management), using the MERN
+                stack. I also developed REST API's for mobile and web
+                applications.
               </div>
             </div>
           </div>
